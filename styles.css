@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;800&family=Roboto:wght@300&display=swap');
+
+*{
+    font-family: 'Plus Jakarta Sans', sans-serif;;
+}
+
+.hero-section p{
+    font-size: 30px;
+    line-height: 1.9;
+    margin-bottom: 20px;
+}
+
+.buttons{
+    padding-top: 60px;
+}
+
+.buttons .btn{
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 24px;
+}
+
+section.hero-section .text{
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 73px;
+    color: black;
+}
+
+.setup{
+    padding: 137px 0;
+}
+
+.information .text-information{
+    padding: 13px;
+
+}
+
+.information h5{
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 48px;
+    color: black;
+}
+
+.information p{
+    font-size: 28px;
+    font-weight: 300;
+    line-height: 28px;
+    color: black;
+    padding-top: 20px;
+}
